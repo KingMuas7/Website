@@ -501,6 +501,11 @@ nav .fa-solid {
     .subtitle {
         font-size: 40px;
     }
+    #body {
+        background-image: url(Background3.png);
+        background-size: cover;
+        background-position: center;
+    }
     .about-col-1, .about-col-2 {
         flex-basis: 100%;
     }
